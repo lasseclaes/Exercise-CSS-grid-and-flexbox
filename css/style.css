@@ -1,0 +1,12 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+main{
+    font-family: Avenir, Roboto, Helvetica, san-serif;
+    font-size: 0.8rem;
+}
+
+article button{
+    background: teal;
+}
