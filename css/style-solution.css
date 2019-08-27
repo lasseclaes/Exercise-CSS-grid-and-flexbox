@@ -1,0 +1,95 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2rem;
+}
+
+main {
+    /* Fallback layout for browsers that do not support grid - see https://caniuse.com/#search=grid */
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+article {
+    margin: 1rem 0;
+}
+
+    /* CSS that applies to browsers that support grid */
+@supports (display: grid) {
+    main {
+        max-width: none;
+        margin: 0;
+    }
+
+    article {
+        margin: 0;
+    }
+
+    main {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        /* Keep adding new columns - even if theres is no content for them. content does not alwys take up full width */
+        /*grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));*/
+        /* Don't add more columns than theres is content for. && +content "always" take full width */
+        grid-gap: 1rem;
+    }
+} /* END @supports grid */
+
+article {
+    display: flex;
+    flex-flow: column;
+}
+
+article > img {
+    order: -1;
+    align-self: center;
+}
+
+/* has a default of stretched - we don't do that on images - remember: max-width: 100%; height: auto */
+
+article {
+    padding: 2rem;
+}
+
+article > h1 {
+    margin: 1rem 1rem 0;
+}
+
+article > ul {
+    margin: 0 0 1rem;
+}
+
+article > p {
+    margin: 0.25em 1rem 1rem;
+}
+
+main {
+    font-family: Avenir, Roboto, Helvetica, san-serif;
+    font-size: 80%;
+}
+
+article {
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+
+article > button {
+    margin-top: auto;
+    /* to push it to the bottom of the box & margin-top: auto takes the available space */
+    background: teal;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+}
+
+/*
+https://labs.jensimmons.com/2017/03-009.html
+view-source:https://labs.jensimmons.com/2017/03-009.html
+https://labs.jensimmons.com/2017/css/03-009.css
+*/
