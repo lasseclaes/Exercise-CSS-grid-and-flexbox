@@ -15,11 +15,11 @@ main {
 }
 ```
 
-## Solution 
-*Don't go directly to the solution - try to see if you can write it on your own first! Compare your work with Jenn Simmons solution in the video. If you are totally lost you can use the video as a tutorial.*
+## Solution / tutorial
+*Don't go directly to the solution - try to see if you can write it on your own first! Compare your work with Jenn Simmons' solution in the video. If you are totally lost you can use the video as a tutorial. It's important that you write and understand this yourself. *
 
-Solution added fore reference: SEE "css/style-solution.css".
-Also Jen Simmons video on this very example at 
+
+Jen Simmons' video on this very example at 
 https://www.youtube.com/watch?v=dQHtT47eH0M
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dQHtT47eH0M" target="_blank"><img src="http://img.youtube.com/vi/dQHtT47eH0M/0.jpg" 
