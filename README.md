@@ -1,12 +1,5 @@
 # Exercise CSS grid and flexbox
 
-Solution added: SEE "css/style-solution.css".
-Also Jen Simmons video on this very example at 
-https://www.youtube.com/watch?v=dQHtT47eH0M
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dQHtT47eH0M" target="_blank"><img src="http://img.youtube.com/vi/dQHtT47eH0M/0.jpg" 
-alt="Jen Simmons showing how to use flexbox and grid combined in web layout" width="240" height="180" border="10" /></a>
-
 Exercise & rules
 1. See the "MakeThis.gif" and make that.
 2. Only change the CSS file. No changing of the HTML document (or the DOM).
@@ -21,3 +14,13 @@ main {
     grid-gap: 1rem; 
 }
 ```
+
+##Solution 
+*Don't go directly to the solution - try to see if you can write it on your own first! Compare your work with Jenn Simmons solution in the video. If you are totally lost you can use the video as a tutorial.*
+
+Solution added fore reference: SEE "css/style-solution.css".
+Also Jen Simmons video on this very example at 
+https://www.youtube.com/watch?v=dQHtT47eH0M
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dQHtT47eH0M" target="_blank"><img src="http://img.youtube.com/vi/dQHtT47eH0M/0.jpg" 
+alt="Jen Simmons showing how to use flexbox and grid combined in web layout" width="240" height="180" border="10" /></a>
