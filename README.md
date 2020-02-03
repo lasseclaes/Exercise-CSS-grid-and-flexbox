@@ -15,7 +15,7 @@ main {
 }
 ```
 
-##Solution 
+## Solution 
 *Don't go directly to the solution - try to see if you can write it on your own first! Compare your work with Jenn Simmons solution in the video. If you are totally lost you can use the video as a tutorial.*
 
 Solution added fore reference: SEE "css/style-solution.css".
