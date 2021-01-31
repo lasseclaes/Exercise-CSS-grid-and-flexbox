@@ -2,7 +2,7 @@
 
 Exercise & rules
 
-1. Fork and clone this repository (...or if we're not ready for that: download the repository as a .zip-file and unzip it).
+1. Fork (on GitHub) and clone (in VS Code) this repository (...or if we're not ready for that just yet: download the repository as a .zip-file and unzip it).
 2. See the "MakeThis.gif" and make that.
 3. Only change the CSS file. No changing of the HTML document (or the DOM).
 4. Use CSS grid for the overall layout and Flexbox for the card/`<article>` "design". See if you can do it without media queries - remember (or look up): repeat, auto-fill, minmax?
