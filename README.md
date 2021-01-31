@@ -25,7 +25,7 @@ main {
 _Don't go directly to the solution - try to see if you can write it on your own first! Compare your work with Jenn Simmons' solution in the video. If you are totally lost you can use the video as a tutorial. It's important that you write and understand this yourself._
 
 Jen Simmons' video on this very example at
-https://www.youtube.com/watch?v=dQHtT47eH0M
+https://www.youtube.com/watch?v=dQHtT47eH0M (8min 52sec)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dQHtT47eH0M" target="_blank"><img src="http://img.youtube.com/vi/dQHtT47eH0M/0.jpg" 
 alt="Jen Simmons showing how to use flexbox and grid combined in web layout" width="240" height="180" /></a>
