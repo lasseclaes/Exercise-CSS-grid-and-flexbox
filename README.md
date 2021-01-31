@@ -22,7 +22,7 @@ main {
 
 ## Tutorial
 
-_Don't go directly to the solution - try to see if you can write it on your own first! Compare your work with Jenn Simmons' solution in the video. If you are totally lost you can use the video as a tutorial. It's important that you write and understand this yourself. _
+_Don't go directly to the solution - try to see if you can write it on your own first! Compare your work with Jenn Simmons' solution in the video. If you are totally lost you can use the video as a tutorial. It's important that you write and understand this yourself._
 
 Jen Simmons' video on this very example at
 https://www.youtube.com/watch?v=dQHtT47eH0M
